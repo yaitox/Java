@@ -39,7 +39,7 @@ class Main {
 		  residue100 = valor % 100;
 
 		  dollar_Fifty = residue100 / 50;
-		  residue50 = residue100 % 20000;
+		  residue50 = residue100 % 50;
 
 		  dollar_Ten = residue50 / 10;
 		  residue10 = residue50 % 10;
